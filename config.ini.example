@@ -1,0 +1,8 @@
+[Serviceportal]
+type = <Personalausweis | Reisepass>
+serial = <Serial>
+birthdate = <dd.MM.yyyy>
+
+[telegram]
+bot_token = <Telegram bot token>
+chat_id = <Telegram chat id>
